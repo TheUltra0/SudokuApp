@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomAlertDialog" parent="Theme.AppCompat.DayNight.Dialog.Alert">
+        <item name="colorAccent">#FFEB3B</item>
+        <item name="colorPrimary">#FFEB3B</item>
+        <item name="android:backgroundTint">#0565A8</item>
+        <item name="colorOnSecondary">#000000</item>
+
+        <item name="background">@color/backgrounddialog</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textColorPrimary">#FFFFFF</item>
+    </style>
+</resources>

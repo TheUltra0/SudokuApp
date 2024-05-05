@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="backgrounddialog">#CCCCCC</color>
+    <color name="buttondialogcolor">#474747</color>
+    <color name="backgrounddialog2">#A4A4A4</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#0565A8</color>
+    <color name="gray">#717171</color>
+    <color name="textgray">#484848</color>
+    <color name="rednumber">#ff3333</color>
+    <color name="bluenumber">#0565A8</color>
+    <color name="bluebutton">#17A7FF</color>
+
+    <color name="lightdark">#FFFFFFFF</color>
+    <color name="textcolor1">#FF000000</color>
+    <color name="textcolor2">#474747</color>
+    <color name="colorbutton">#17A7FF</color>
+    <color name="textcolor3">#FF000000</color>
+    <color name="buttoncolor">#17A7FF</color>
+
+    <color name="backgroundsudoku">#FFFFFFFF</color>
+    <color name="boardlines">#FF000000</color>
+    <color name="sudokuboard">#FFFFFFFF</color>
+    <color name="sudokunumbers">#FF000000</color>
+    <color name="sudokusquares">#EBEBEB</color>
+    <color name="blanksquare">#FAFDBD</color>
+    <color name="numbersquare">#ACEDFC</color>
+
+
+    <color name="wingame">#FFFFFFFF</color>
+
+
+
+</resources>

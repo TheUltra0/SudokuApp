@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="step2sudoku">
+         • Every square has to contain a single number \n • Only the numbers from 1 through to 9 can be used \n • Each 3×3 box can only contain each number from 1 to 9 once \n • Each vertical column can only contain each number from 1 to 9 once \n • Each horizontal row can only contain each number from 1 to 9 once</string>
+</resources>
